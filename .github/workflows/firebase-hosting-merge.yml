@@ -11,8 +11,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: npm ci && npm run build
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+      
+      # Setup Node.js environment
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14' # Use the Node.js version that matches your project requirements
+
+      # Install npm dependencies
+      - name: Install NPM dependencies
+        run: npm ci
+      
+      # Install Hugo
+      - name: Install Hugo
+        run: |
+          HUGO_VERSION=0.88.1 # Adjust the version number to match your project requirements
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          tar -xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          sudo mv hugo /usr/local/bin/
+
+      # Build the project
+      - name: Build
+        run: npm run build
+
+      # Deploy to Firebase Hosting
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_RSP_DDT }}'
