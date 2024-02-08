@@ -1,0 +1,30 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+weight = 4
+name = "Scenarios"
+url = "blog/"
+hasChildren = true
+
+[[main]]
+parent = "Scenarios"
+name = "All Scenarios"
+url = "blog/"
+
+[[main]]
+parent = "Scenarios"
+name = "Mystic Euphoria Retreat & Spa"
+url = "blog/post-1"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
