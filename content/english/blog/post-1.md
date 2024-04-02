@@ -110,8 +110,8 @@ Deshalb jetzt 2 Wochen am Stück in das Hotel.
 
 <hr><hr>
 
-<h1>
-FLYER des Hotels</h1>
+
+## FLYER des Hotels
 
 
 > Hast du jemals davon geträumt, deine tiefsten Verlangen zu erforschen? - Dann bist du hier ganz sicher richtig!
@@ -206,18 +206,16 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <hr>
 
-## Besondere Zimmer (bitte über App reservieren!)
+## Besondere Zimmer
+{{< notice "info" >}}
+Unsere "Spielzimmer" sind alle über unsere App buchbar
+{{< /notice >}}
 
-<ul>
-<li>Mehrere verschiedene Spielzimmer mit Bdsm Möbel, Toys, Fickmaschine, etc.
-<ul>
-<li>Vorführungsräume mit Sitzplätzen und Vorhang</li>
-<li>Gerne nehmen wir Vorführungen für die allgemeine Abendplanung auf bzw. Machen Werbung. </li>
-</ul>
-</li>
-<li>Water bdsm Raum - inkl. kleinem Pool etc.</li>
-<li>2 Kliniken mit Gyn-Stuhl und viel Ausrüstung</li>
-</ul>
+- Mehrere verschiedene Spielzimmer mit Bdsm Möbel, Toys, Fickmaschine, etc.
+- Vorführungsräume mit Sitzplätzen und Vorhang
+- Gerne nehmen wir Vorführungen für die allgemeine Abendplanung auf bzw. Machen Werbung.
+- Water bdsm Raum - inkl. kleinem Pool etc.
+- 2 Kliniken mit Gyn-Stuhl und viel Ausrüstung
 
 <hr>
 
@@ -229,116 +227,160 @@ Alle unsere Angebotene Aktivitäten, Kurse, Custom-Packages und Events können �
 
 ### Aktivitäten
 
-<ul>
-<li>Slave/Master Shooting
-<ul>
-<li>5 verschiedene Finale Bilder bzw. 5 verschiedene Posen</li>
-<li>Pro Pose 20 Bilder, und jeweils ein finales BILD</li>
-<li>bringt gerne Ideen mit! Sonst habe wir schon einiges an Ideen etc.</li>
-</ul>
-</li>
-<li>Champagne / natursekt tasting
-<ul>
-<li>4 Champagner / Weine, 4 mal Natursekt</li>
-<li>Unsere ns Spender sind Nichtraucher und haben auch seit 2 Tagen keinen Alkohol getrunken</li>
-<li>Die Weine sind mit unseren Natursekte abgestimmt</li>
-<li>Jeder Teilnehmer kann jeden Gang mitmachen. Auch kann man aber entschieden, dass etwas ausgelassen wird, oder ein Teil des Paares nur NS oder nur (Schaum-)Wein trinkt. Außerdem haben unsere Natursektspender 2 Tage nur bestimmte Dinge gegessen und getrunken, damit ihr Sekt bestimmte Aromen entwickeln, die dann jeweils zum gepairten (Schaum-)Wein gehört</li>
-<li>NS-Objekte:
-<ul>
-<li>NS 1: Frau 1: Honig, brioche, Butter, Getränke: Wasser, Tee mit Honig | Getränke: Wasser & Tee mit Honig</li>
-<li>NS 2: Frau 2: grüne Früchte: grüne leicht unreife Äpfel und Birnen , grüne junge Trauben, nicht sehr reife Grapefruit und grüne, leicht unreife Bananen | Getränke: Zitronentee</li>
-<li>NS 3: Frau 3: Annanas, Orange, Honigmelone, Wassermelone; Getränke: Fruchtsäfte | Getränke: Fruchtsäfte und Wasser</li>
-<li>NS 3: Frau 3: Annanas, Orange, Honigmelone, Wassermelone; Getränke: Fruchtsäfte | Getränke: Fruchtsäfte und Wasser</li>
-<li>NS 4: Mann 1: geröstete Nüsse, geröstete Samen, Rosinen,  dunkle Schokolade und Gewürze wie Rauchsalz, Pfeffer, Kardamom; Getränke: Wasser, Cola, Malzbier</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Bodypainting
-<ul>
-<li>Ihr malt euch gegenseitig an. Wir können gerne einen Fotografen stellen.</li>
-</ul>
-</li>
-<li>Escape-Room
-<ul>
-<li>Der etwas andere escape Room: ähnlich wie bei einem echten geht es hier darum aus dem Raum zu entkommen. Allerdings anders wie bei einem echten e Raum, lauft ihr nicht im Raum rum und versucht Schlüssel zu finden, sondern ihr werdet einfach erst rausgelassen wenn ihr die gestellten Challenges absolviert habt.</li>
-<li>Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Tabus könnt ihr mitgeben, allerdings heißt das nicht, dass sie zu 100% berücksichtigt werden. Allerdings habt ihr insgesamt 2 Joker, um eine Challenge zu überspringen.</li>
-<li>Es gibt 2 Varianten:
-<ul>
-<li>Normal:</li>
-<li>Hardcore:</li>
-</ul>
-</li>
-<li>Empfohlen wird diese Aktivität insbesondere für frische Paare oder sogar als Date. Für längere Beziehung kann es auch schön sein, dann würden wir aber die Hardcore Variante empfehlen.</li>
-</ul>
-</li>
-</ul>
+{{< tabs >}}
+
+{{< tab "Slave / Master Shooting" >}}
+- 5 verschiedene Finale Bilder bzw. 5 verschiedene Posen
+- Pro Pose 20 Bilder, und jeweils ein finales BILD
+- bringt gerne Ideen mit! Sonst habe wir schon einiges an Ideen etc.
+{{< /tab >}}
+
+{{< tab "Champagne / Natursekt Tasting" >}}
+#### Allgemeines
+- 4 Champagner / Weine, 4 mal Natursekt
+- Unsere ns Spender sind Nichtraucher und haben auch seit 2 Tagen keinen Alkohol getrunken
+- Die Weine sind mit unseren Natursekte abgestimmt
+- Jeder Teilnehmer kann jeden Gang mitmachen. Auch kann man aber entschieden, dass etwas ausgelassen wird, oder ein Teil des Paares nur NS oder nur (Schaum-)Wein trinkt. Außerdem haben unsere Natursektspender 2 Tage nur bestimmte Dinge gegessen und getrunken, damit ihr Sekt bestimmte Aromen entwickeln, die dann jeweils zum gepairten (Schaum-)Wein gehört
+#### NS-Objekte
+| Round |      sex      |  Speisen | Getränke |
+| ----- | :-----------: | ----: | --: |
+| 1     |   Frau    |   Honig, brioche, Butter | Wasser & Tee mit Honig |
+| 2     |   Frau    |  grüne Früchte: grüne leicht unreife Äpfel und Birnen , grüne junge Trauben, nicht sehr reife Grapefruit und grüne, leicht unreife Bananen | Zitronentee |
+| 3     |   Frau    |  Annanas, Orange, Honigmelone, Wassermelone | Fruchtsäfte und Wasser |
+| 4     |   Mann    |  geröstete Nüsse, geröstete Samen, Rosinen,  dunkle Schokolade und Gewürze wie Rauchsalz, Pfeffer, Kardamom | Wasser, Cola, Malzbier |
+
+
+{{< /tab >}}
+
+{{< tab "Bodypaiting" >}}
+- Ihr malt euch gegenseitig an. Wir können gerne einen Fotografen stellen.
+{{< /tab >}}
+
+{{< tab "Escape-Room" >}}
+#### Ablauf
+- Der etwas andere escape Room: ähnlich wie bei einem echten geht es hier darum aus dem Raum zu entkommen. Allerdings anders wie bei einem echten e Raum, lauft ihr nicht im Raum rum und versucht Schlüssel zu finden, sondern ihr werdet einfach erst rausgelassen wenn ihr die gestellten Challenges absolviert habt.
+- Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Tabus könnt ihr mitgeben, allerdings heißt das nicht, dass sie zu 100% berücksichtigt werden. Allerdings habt ihr insgesamt 2 Joker, um eine Challenge zu überspringen.
+- Es gibt 2 Varianten (Hardcore / Normal)
+##### Normal 
+textext
+##### Hardcore 
+Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Tabus könnt ihr mitgeben, allerdings heißt das nicht, dass sie zu 100% berücksichtigt werden. Allerdings habt ihr insgesamt 2 Joker, um eine Challenge zu überspringen.
+
+> Empfohlen wird diese Aktivität insbesondere für frische Paare oder sogar als Date. Für längere Beziehung kann es auch schön sein, dann würden wir aber die Hardcore Variante empfehlen.
+
+
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
 
 <hr>
 
 ### Spa/ Bodymods
 
-<ul>
-<li>Tattoos</li>
-<li>Piercings</li>
-<li>Kleinere Ops (Lippen, Brüste, Po, etc.)</li>
-<li>Brandings</li>
-<li>Untersuchungen (Gyn)</li>
-<li>Massagen aller Art</li>
-</ul>
+- Tattoos
+- Piercings
+- Kleinere OPs (Lippen, Brüste, Po, etc.)
+- Brandings
+- Untersuchungen (Gyn)
+- Massagen aller Art
 
 <hr>
 
 
 ### Events
 
-### Themenabende
-
-<ul>
-<li>The best slut of the night ( Wettbewerb)</li>
-<li>Auktionsabend (Subs können versteigert werden)</li>
-<li>Fashion show: bdsm outfits on the runway</li>
-</ul>
-
 #### Allgemeine Events
 
-<ul>
-<li>Bukkake
-<ul>
-<li>Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest</li>
-</ul>
-</li>
-<li>Gangbang
-<ul>
-<li>Gleiche wie bei Bukkake</li>
-</ul>
-</li>
-<li>Vorführungen
-<ul>
-<li>Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner</li>
-</ul>
-</li>
-</ul>
+{{< tabs >}}
 
+{{< tab "Bukkake" >}}
+Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+{{< /tab >}}
+
+{{< tab "Gangbang" >}}
+Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+{{< /tab >}}
+
+{{< tab "Vorführungen" >}}
+Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+{{< /tab >}}
+
+{{< /tabs >}}
+
+#### Themenabende
+
+{{< tabs >}}
+
+{{< tab "The best slut of the night" >}}
+Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+{{< /tab >}}
+
+{{< tab "Auktion von Subs" >}}
+Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+{{< /tab >}}
+
+{{< tab "BDSM Fashion Show" >}}
+Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+{{< /tab >}}
+
+{{< /tabs >}}
 
 #### Single Events
 
-<ul>
-<li>Speed-Dating Abend (klassisch)</li>
-<li>Speed-Dating Abend (ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pro tag könnt ihr das einmal machen)</li>
-</ul>
+{{< tabs >}}
+
+{{< tab "speed-Dating Abend (klassisch)" >}}
+
+Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+
+{{< /tab >}}
+
+{{< tab "Speed-Dating Abend - new" >}}
+##### Beschreibung
+Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pro tag könnt ihr das einmal machen)
+
+{{< /tab >}}
+
+{{< tab "BDSM Fashion Show" >}}
+
+Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+
+{{< /tab >}}
+
+{{< /tabs >}}
 
 ### Kurse
 
-<ul>
-<li>Shibari Kurs</li>
-<li>Deepthroat Kurs (milky)</li>
-<li>Fisting- /Dehnung Kurs (Anal / Vaginal)</li>
-<li>Laktation (mind. 1 Woche)</li>
-<li>Cuminflation (Natürlich nicht mit echtem Sperma.... Wir haben aber ein ähnliches Sekret, das wir mit Hilfe von Einläufen einpumpen können. Dann wird gelernt, es möglichst lange in sich zu behalten... Man fühlt sich jedenfalls sehr gefüllt.</li>
-<li>Cocktail und Cookingclass (aphrodisierend)</li>
-</ul>
+{{< tabs >}}
 
+{{< tab "Shibari Kurs" >}}
+Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+{{< /tab >}}
+
+{{< tab "Deepthroat Kurs" >}}
+Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+{{< /tab >}}
+
+{{< tab "Fisting-/ Dehnung Kurs (Vaginal/Anal)" >}}
+Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+{{< /tab >}}
+
+{{< tab "Laktation" >}}
+
+{{< /tab >}}
+
+{{< tab "Cuminflation" >}}
+Cuminflation (Natürlich nicht mit echtem Sperma.... Wir haben aber ein ähnliches Sekret, das wir mit Hilfe von Einläufen einpumpen können. Dann wird gelernt, es möglichst lange in sich zu behalten... Man fühlt sich jedenfalls sehr gefüllt.
+{{< /tab >}}
+
+{{< tab "Cocktail und Cookingclass" >}}
+##### Kurzbeschreibung
+Text
+{{< /tab >}}
+
+{{< /tabs >}}
 
 
 ### Complimentary Services 
