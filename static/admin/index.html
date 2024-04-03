@@ -14,20 +14,20 @@
 <script>
 CMS.registerEditorComponent({
   // Widget ID
-  id: "tabs",
+  id: "Accordion",
   // Widget Label im Editor für die Benutzer
-  label: "Tabs",
+  label: "Accordion",
   // Felder für die Inhalte deiner Tabs
   fields: [
     {name: 'title', label: 'Tab Title'},
     {name: 'content', label: 'Tab Content', widget: 'markdown'},
   ],
   // Vorschau-Funktion, zeigt eine einfache Darstellung deiner Tabs
-  pattern: /^{{<\s?tabs\s?>}}([\s\S]*?){{<\s?\/tabs\s?>}}$/,
+  pattern: /^{{<\s?accordion\s?>}}([\s\S]*?){{<\s?\/accordion\s?>}}$/,
   fromBlock: function(match) {
     return {
-      title: match[2],
-      content: match[3],
+      title: match[1],
+      content: match[2],
     };
   },
   toBlock: function(obj) {
@@ -35,6 +35,48 @@ CMS.registerEditorComponent({
   },
   toPreview: function(obj) {
     return `<div class="tabs"><div class="tab">${obj.title}</div><div class="content">${obj.content}</div></div>`;
+  },
+});
+</script>
+<script>
+CMS.registerEditorComponent({
+  id: "tabs",
+  label: "Tabs",
+  fields: [{
+    name: 'tabs',
+    label: 'Tabs',
+    widget: 'list',
+    fields: [
+      { name: 'title', label: 'Tab Title', widget: 'string' },
+      { name: 'content', label: 'Tab Content', widget: 'markdown' },
+    ],
+  }],
+  pattern: /^{{<\s?tabs\s?>}}([\s\S]*?){{<\s?\/tabs\s?>}}$/,
+  fromBlock: function(match) {
+    // Hier müsste eine Logik implementiert werden, die den Inhalt zwischen {{< tabs >}} und {{< /tabs >}}
+    // parst und in ein Format umwandelt, das der obigen Felddefinition entspricht.
+    // Dies hängt stark vom spezifischen Format deiner Tabs im Markdown ab.
+    return {
+      tabs: [
+        // Beispiel für ein Tab-Objekt
+        { title: "Beispiel Titel 1", content: "Beispiel Inhalt 1" },
+        // Füge hier weitere Tabs entsprechend deinem Markup hinzu
+      ]
+    };
+  },
+  toBlock: function(obj) {
+    // Wandelt die Liste von Tab-Objekten zurück in das gewünschte Markup um
+    let tabsMarkup = obj.tabs.map(tab => {
+      return `{{< tab "${tab.title}" >}}\n${tab.content}\n{{< /tab >}}`;
+    }).join('\n');
+    return `{{< tabs >}}\n${tabsMarkup}\n{{< /tabs >}}`;
+  },
+  toPreview: function(obj) {
+    // Generiert eine einfache HTML-Vorschau der Tabs
+    let tabsPreview = obj.tabs.map(tab => {
+      return `<div class="tab">${tab.title}</div><div class="content">${tab.content}</div>`;
+    }).join('');
+    return `<div class="tabs">${tabsPreview}</div>`;
   },
 });
 </script>
