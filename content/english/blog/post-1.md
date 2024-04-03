@@ -1,22 +1,22 @@
 ---
-title: "Mystic Euphoria Retreat & Spa"
-meta_title: "Mystic Euphoria Retreat & Spa"
-description: "Mystic Euphoria Retreat & Spa"
-date: 2024-02-01T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["BDSM"]
-tags: ["bdsm"]
 draft: false
+title: Mystic Euphoria Retreat & Spa
+meta_title: Mystic Euphoria Retreat & Spa
+description: Mystic Euphoria Retreat & Spa
+date: 2024-02-01T05:00:00.000Z
+image: /images/image-placeholder.png
+categories:
+  - BDSM
+tags:
+  - bdsm
 ---
-
 {{< toc >}}
 
-
-##  Idee in einem Satz
+## Idee in einem Satz
 
 Wir verreisen in ein extrem luxuriöses 5-Sterne Resort (Name: Mystique Euphoria Retreat), das allerdings ausschließlich auf BDSM Paare oder Gruppen ausgelegt ist.
 
-##  Vorwort / generelle Info
+## Vorwort / generelle Info
 
 Dieses Szenario sollte eher als "Welt" verstanden werden, in welcher wir gemeinsam spielen können. Unter "Rollen // Konstellation" findest du verschiedene Ideen/Möglichkeiten bzw. Konstellationen, die wir in dieser Welt spielen könnten. Eines ist mir dabei noch sehr wichtig: Das sind alles erstmal Ideen! Wir können verschiedenes davon mischen oder Neues, das wir zusammen ausgedacht haben, hinzufügen. Für mich ist das Finden des richtigen und vor Allem passenden Rollenspiels schon ein wichtiger Schritt, den ich auch sehr genieße :)
 
@@ -29,11 +29,9 @@ Ich bin noch dabei für verschiedene Szenen Bilder zu erstellen. Aber das kommt 
 
 Viel Spaß :)
 
-##  Rollen // Konstellation
+## Rollen // Konstellation
 
-###  Mögliche Beispiele Konstellationen
-
-
+### Mögliche Beispiele Konstellationen
 
 {{< accordion "Gleichaltriges Liebespaar" >}}
 
@@ -110,9 +108,7 @@ Deshalb jetzt 2 Wochen am Stück in das Hotel.
 
 <hr><hr>
 
-
 ## FLYER des Hotels
-
 
 > Hast du jemals davon geträumt, deine tiefsten Verlangen zu erforschen? - Dann bist du hier ganz sicher richtig!
 
@@ -178,8 +174,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 {{< /tab >}}
 {{< /tabs >}}
 
-
-
 <hr>
 
 ## Hoteleinrichtung
@@ -207,15 +201,16 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <hr>
 
 ## Besondere Zimmer
+
 {{< notice "info" >}}
 Unsere "Spielzimmer" sind alle über unsere App buchbar
 {{< /notice >}}
 
-- Mehrere verschiedene Spielzimmer mit Bdsm Möbel, Toys, Fickmaschine, etc.
-- Vorführungsräume mit Sitzplätzen und Vorhang
-- Gerne nehmen wir Vorführungen für die allgemeine Abendplanung auf bzw. Machen Werbung.
-- Water bdsm Raum - inkl. kleinem Pool etc.
-- 2 Kliniken mit Gyn-Stuhl und viel Ausrüstung
+* Mehrere verschiedene Spielzimmer mit Bdsm Möbel, Toys, Fickmaschine, etc.
+* Vorführungsräume mit Sitzplätzen und Vorhang
+* Gerne nehmen wir Vorführungen für die allgemeine Abendplanung auf bzw. Machen Werbung.
+* Water bdsm Raum - inkl. kleinem Pool etc.
+* 2 Kliniken mit Gyn-Stuhl und viel Ausrüstung
 
 <hr>
 
@@ -230,64 +225,71 @@ Alle unsere Angebotene Aktivitäten, Kurse, Custom-Packages und Events können �
 {{< tabs >}}
 
 {{< tab "Slave / Master Shooting" >}}
-- 5 verschiedene Finale Bilder bzw. 5 verschiedene Posen
-- Pro Pose 20 Bilder, und jeweils ein finales BILD
-- bringt gerne Ideen mit! Sonst habe wir schon einiges an Ideen etc.
-{{< /tab >}}
+
+* 5 verschiedene Finale Bilder bzw. 5 verschiedene Posen
+* Pro Pose 20 Bilder, und jeweils ein finales BILD
+* bringt gerne Ideen mit! Sonst habe wir schon einiges an Ideen etc.
+  {{< /tab >}}
 
 {{< tab "Champagne / Natursekt Tasting" >}}
-#### Allgemeines
-- 4 Champagner / Weine, 4 mal Natursekt
-- Unsere ns Spender sind Nichtraucher und haben auch seit 2 Tagen keinen Alkohol getrunken
-- Die Weine sind mit unseren Natursekte abgestimmt
-- Jeder Teilnehmer kann jeden Gang mitmachen. Auch kann man aber entschieden, dass etwas ausgelassen wird, oder ein Teil des Paares nur NS oder nur (Schaum-)Wein trinkt. Außerdem haben unsere Natursektspender 2 Tage nur bestimmte Dinge gegessen und getrunken, damit ihr Sekt bestimmte Aromen entwickeln, die dann jeweils zum gepairten (Schaum-)Wein gehört
-#### NS-Objekte
-| Round |      sex      |  Speisen | Getränke |
-| ----- | :-----------: | ----: | --: |
-| 1     |   Frau    |   Honig, brioche, Butter | Wasser & Tee mit Honig |
-| 2     |   Frau    |  grüne Früchte: grüne leicht unreife Äpfel und Birnen , grüne junge Trauben, nicht sehr reife Grapefruit und grüne, leicht unreife Bananen | Zitronentee |
-| 3     |   Frau    |  Annanas, Orange, Honigmelone, Wassermelone | Fruchtsäfte und Wasser |
-| 4     |   Mann    |  geröstete Nüsse, geröstete Samen, Rosinen,  dunkle Schokolade und Gewürze wie Rauchsalz, Pfeffer, Kardamom | Wasser, Cola, Malzbier |
 
+#### Allgemeines
+
+* 4 Champagner / Weine, 4 mal Natursekt
+* Unsere ns Spender sind Nichtraucher und haben auch seit 2 Tagen keinen Alkohol getrunken
+* Die Weine sind mit unseren Natursekte abgestimmt
+* Jeder Teilnehmer kann jeden Gang mitmachen. Auch kann man aber entschieden, dass etwas ausgelassen wird, oder ein Teil des Paares nur NS oder nur (Schaum-)Wein trinkt. Außerdem haben unsere Natursektspender 2 Tage nur bestimmte Dinge gegessen und getrunken, damit ihr Sekt bestimmte Aromen entwickeln, die dann jeweils zum gepairten (Schaum-)Wein gehört
+
+#### NS-Objekte
+
+| Round | sex  | Speisen                                                                                                                                   | Getränke               |
+| ----- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 1     | Frau | Honig, brioche, Butter                                                                                                                    | Wasser & Tee mit Honig |
+| 2     | Frau | grüne Früchte: grüne leicht unreife Äpfel und Birnen , grüne junge Trauben, nicht sehr reife Grapefruit und grüne, leicht unreife Bananen | Zitronentee            |
+| 3     | Frau | Annanas, Orange, Honigmelone, Wassermelone                                                                                                | Fruchtsäfte und Wasser |
+| 4     | Mann | geröstete Nüsse, geröstete Samen, Rosinen,  dunkle Schokolade und Gewürze wie Rauchsalz, Pfeffer, Kardamom                                | Wasser, Cola, Malzbier |
 
 {{< /tab >}}
 
 {{< tab "Bodypaiting" >}}
-- Ihr malt euch gegenseitig an. Wir können gerne einen Fotografen stellen.
-{{< /tab >}}
+
+* Ihr malt euch gegenseitig an. Wir können gerne einen Fotografen stellen.
+  {{< /tab >}}
 
 {{< tab "Escape-Room" >}}
+
 #### Ablauf
-- Der etwas andere escape Room: ähnlich wie bei einem echten geht es hier darum aus dem Raum zu entkommen. Allerdings anders wie bei einem echten e Raum, lauft ihr nicht im Raum rum und versucht Schlüssel zu finden, sondern ihr werdet einfach erst rausgelassen wenn ihr die gestellten Challenges absolviert habt.
-- Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Tabus könnt ihr mitgeben, allerdings heißt das nicht, dass sie zu 100% berücksichtigt werden. Allerdings habt ihr insgesamt 2 Joker, um eine Challenge zu überspringen.
-- Es gibt 2 Varianten (Hardcore / Normal)
-##### Normal 
+
+* Der etwas andere escape Room: ähnlich wie bei einem echten geht es hier darum aus dem Raum zu entkommen. Allerdings anders wie bei einem echten e Raum, lauft ihr nicht im Raum rum und versucht Schlüssel zu finden, sondern ihr werdet einfach erst rausgelassen wenn ihr die gestellten Challenges absolviert habt.
+* Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Tabus könnt ihr mitgeben, allerdings heißt das nicht, dass sie zu 100% berücksichtigt werden. Allerdings habt ihr insgesamt 2 Joker, um eine Challenge zu überspringen.
+* Es gibt 2 Varianten (Hardcore / Normal)
+
+##### Normal
+
 textext
-##### Hardcore 
+
+##### Hardcore
+
 Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Tabus könnt ihr mitgeben, allerdings heißt das nicht, dass sie zu 100% berücksichtigt werden. Allerdings habt ihr insgesamt 2 Joker, um eine Challenge zu überspringen.
 
 > Empfohlen wird diese Aktivität insbesondere für frische Paare oder sogar als Date. Für längere Beziehung kann es auch schön sein, dann würden wir aber die Hardcore Variante empfehlen.
-
-
 
 {{< /tab >}}
 
 {{< /tabs >}}
 
-
 <hr>
 
 ### Spa/ Bodymods
 
-- Tattoos
-- Piercings
-- Kleinere OPs (Lippen, Brüste, Po, etc.)
-- Brandings
-- Untersuchungen (Gyn)
-- Massagen aller Art
+* Tattoos
+* Piercings
+* Kleinere OPs (Lippen, Brüste, Po, etc.)
+* Brandings
+* Untersuchungen (Gyn)
+* Massagen aller Art
 
 <hr>
-
 
 ### Events
 
@@ -295,15 +297,15 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 
 {{< tabs >}}
 
-{{< tab "Bukkake" >}}
+###### {{< tab "Bukkake" >}}
 Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
 {{< /tab >}}
 
-{{< tab "Gangbang" >}}
+###### {{< tab "Gangbang" >}}
 Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
 {{< /tab >}}
 
-{{< tab "Vorführungen" >}}
+###### {{< tab "Vorführungen" >}}
 Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
 {{< /tab >}}
 
@@ -338,7 +340,9 @@ Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir o
 {{< /tab >}}
 
 {{< tab "Speed-Dating Abend - new" >}}
+
 ##### Beschreibung
+
 Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pro tag könnt ihr das einmal machen)
 
 {{< /tab >}}
@@ -376,15 +380,15 @@ Cuminflation (Natürlich nicht mit echtem Sperma.... Wir haben aber ein ähnlich
 {{< /tab >}}
 
 {{< tab "Cocktail und Cookingclass" >}}
+
 ##### Kurzbeschreibung
+
 Text
 {{< /tab >}}
 
 {{< /tabs >}}
 
-
-### Complimentary Services 
-
+### Complimentary Services
 
 {{< notice "tip" >}}
 Unsere "Complimentary Services" sind inbegriffen.
@@ -521,8 +525,7 @@ Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sei
 
 <strong>Rauchquartz (Braun</strong>): Dom, Top, Herr, Herrin als Single im Hotel: kann von Paaren direkt oder via App für verschiedenes angefragt werden. Subs können deren Profile in der App finden und haben dort verschiedene Möglichkeiten zur Kontaktanfrage (Genauso andersrum - siehe: Funktionen in der App im Profil) 
 
-
-------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
+\------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
 
 <strong>Obsidian (Schwarz)</strong>: DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave: eventuell kann man sein / ihr Profil in der App finden für Anfragen.
 
@@ -538,4 +541,3 @@ Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sei
 <li><strong>Nachricht schreiben:</strong> du kannst eine nette Nachricht schreiben. Nutze es als Kontaktanfrage oder Sonstiges</li>
 <li><strong>Brief schreiben: </strong>gerne kannst du selbst einen Brief schreiben oder von uns einen handschriftlich erstellen lassen. Empfänger erhält den Brief auf Wunsch zu einem Essen oder auch direkt aufs Zimmer.</li>
 </ul>
-
