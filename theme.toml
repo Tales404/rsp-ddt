@@ -9,6 +9,8 @@ min_version = "0.121.2"
 tags = [
   "bdsm",
   "RS-World",
+  "Fantasy",
+  "RS-shortStory",
 ]
 
 features = [

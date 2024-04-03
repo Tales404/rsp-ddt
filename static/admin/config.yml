@@ -13,9 +13,20 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Meta-Title', name: 'meta_title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Image', name: 'image', widget: 'string', default: '/images/image-placeholder.png' }
+      - { label: 'Catagories', name: 'categories', widget: 'list'}
+      - label: 'Tags'
+        name: 'tags'
+        widget: 'list'
+        allow_add: true
+        fields:
+          - {label: 'BDSM', name: '["bdsm"]', widget: 'string'}
+          - {label: 'RS-World', name: '["RS-World"]', widget: 'string'}
+          - {label: 'Fantasy', name: '["Fantasy"]', widget: 'string'}
+          - {label: 'RS-shortStory', name: '["RS-shortStory"]', widget: 'string'}                  
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog-ger'
     label: 'Blog-ger'
