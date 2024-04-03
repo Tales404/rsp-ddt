@@ -13,28 +13,24 @@
     
 <script>
 CMS.registerEditorComponent({
-  // Widget ID
-  id: "Accordion",
-  // Widget Label im Editor für die Benutzer
+  id: "accordion",
   label: "Accordion",
-  // Felder für die Inhalte deiner Tabs
   fields: [
-    {name: 'title', label: 'Tab Title'},
-    {name: 'content', label: 'Tab Content', widget: 'markdown'},
+    { name: 'title', label: 'Accordion Title', widget: 'string' },
+    { name: 'content', label: 'Accordion Content', widget: 'markdown' },
   ],
-  // Vorschau-Funktion, zeigt eine einfache Darstellung deiner Tabs
-  pattern: /^{{<\s?accordion\s?>}}([\s\S]*?){{<\s?\/accordion\s?>}}$/,
+  pattern: /^{{<\s?accordion\s"([^"]*)"\s?>}}([\s\S]*?){{<\s?\/accordion\s?>}}$/,
   fromBlock: function(match) {
     return {
       title: match[1],
-      content: match[2],
+      content: match[2]
     };
   },
   toBlock: function(obj) {
-    return `{{< tabs >}}\n{{< tab "${obj.title}" >}}\n${obj.content}\n{{< /tab >}}\n...{{< /tabs >}}`;
+    return `{{< accordion "${obj.title}" >}}\n${obj.content}\n{{< /accordion >}}`;
   },
   toPreview: function(obj) {
-    return `<div class="tabs"><div class="tab">${obj.title}</div><div class="content">${obj.content}</div></div>`;
+    return `<div class="accordion"><div class="title">${obj.title}</div><div class="content">${obj.content}</div></div>`;
   },
 });
 </script>
