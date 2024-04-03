@@ -10,5 +10,33 @@
   <body>
     <!-- Include the script that builds the page and powers Decap CMS -->
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    
+<script>
+CMS.registerEditorComponent({
+  // Widget ID
+  id: "tabs",
+  // Widget Label im Editor für die Benutzer
+  label: "Tabs",
+  // Felder für die Inhalte deiner Tabs
+  fields: [
+    {name: 'title', label: 'Tab Title'},
+    {name: 'content', label: 'Tab Content', widget: 'markdown'},
+  ],
+  // Vorschau-Funktion, zeigt eine einfache Darstellung deiner Tabs
+  pattern: /^{{<\s?tabs\s?>}}([\s\S]*?){{<\s?\/tabs\s?>}}$/,
+  fromBlock: function(match) {
+    return {
+      title: match[2],
+      content: match[3],
+    };
+  },
+  toBlock: function(obj) {
+    return `{{< tabs >}}\n{{< tab "${obj.title}" >}}\n${obj.content}\n{{< /tab >}}\n...{{< /tabs >}}`;
+  },
+  toPreview: function(obj) {
+    return `<div class="tabs"><div class="tab">${obj.title}</div><div class="content">${obj.content}</div></div>`;
+  },
+});
+</script>
   </body>
 </html>
