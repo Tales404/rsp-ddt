@@ -13,19 +13,19 @@ tags:
 ---
 Hello World
 
+{{< accordion "frage" >}}
+Antwort
+{{< /accordion >}}
+
+{{< accordion "frage2" >}}
+antwort 2
+{{< /accordion >}}
+
 {{< tabs >}}
-{{< tab "test-titel" >}}
-test content
+{{< tab "Beispiel Titel 1" >}}
+* Beispiel Inhalt 1
 {{< /tab >}}
-...{{< /tabs >}}
-
-
-
-{{< tabs >}}
-{{< tab "tab-titel1" >}}
-tab content 1
-{{< /tab >}}
-{{< tab "tab-titel2" >}}
-tab-content 2
+{{< tab "Tab Titel 2" >}}
+**Moin**
 {{< /tab >}}
 {{< /tabs >}}
