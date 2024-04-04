@@ -12,7 +12,7 @@ tags:
 
 # Funktionen in der App
 features:
-  - title: "Fuktionen in der Euphoria Retreat App"
+  - title: ""
     image: "/images/service-1.png"
     content: "Scanne einfach den QR-Code deiner Zimmerkarte und lade dir unsere App herunter! Sie ergänzen deinen Aufenthalt bei uns perfekt!"
     bulletpoints:
@@ -560,6 +560,7 @@ Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sei
 
 {{< accordion "Grüner Smaragd (Sub/Bottom mit Begleitung)" >}}
 **→ wenn an Leine:** Man darf sich vorsichtig annähern. Dann Blick-Kontakt zum DOM (oder vorübergehender Aufpasser (buchbar)) - beide erkennbar an schwarzem Edelstein - aufnehmen. Wenn kein Kopfschütteln kommt, darf gestreichelt und vorsichtig gegrabscht werden. Ohne eindringen!!! Weiteres nur durch explizite Erlaubnis. Es darf NICHT direkt danach gefragt werden! Nur via App darf weiteres gefragt werden!
+
 **→ wenn nicht an Leine:** Darf wirklich nur extrem vorsichtig gestreichelt und sehr leicht gegrabscht werden! Alle Mitarbeiter des Hotels haben dann ein Auge darauf!
 {{< /accordion >}}
 
@@ -586,3 +587,4 @@ Eventuell kann man sein / ihr Profil in der App finden für Anfragen.
 \------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
 
 
+## Funktionen der Euphoria App
