@@ -468,67 +468,69 @@ Bei granularer Individualisierung vereinbaren sie bitte im Vorfeld ein Telefonat
 Teilweise sind unsere Servicekräfte auch Teil unserer "Discreet Euphorias". Allerding bei weitem nicht Alle! Bei bestimmten Wünschen müssen Sie sich im Vorfeld erkundigen!
 {{< /notice >}}
 
-<ul>
-<li>DOM / Top / Herr / Lady</li>
-<li>Sklavin / Sklave / Sub / Bottom</li>
-<li>Zofe / Butler
-<ul>
-<li>sind auch für generelle Services im Zimmer (wie zb. Cleaning) zuständig</li>
-<li>Die meisten sind Switcher und können nach Wunsch dominant oder devot auftreten</li>
-</ul>
-</li>
-<li>Pet (cat, dog, Pony) - kann auch servieren</li>
-<li>Toilettensklaven</li>
-</ul>
+* DOM / Top / Herr / Lady / Mistress
+* Sklavin / Sklave / Sub / Bottom
+* Powerbottom
+* Zofe / Butler
+
+  * Sie sind auch für generelle Services im Zimmer (wie zb. Cleaning) zuständig
+  * Die meisten sind Switcher und können nach Wunsch dominant oder devot auftreten
+* Pet (Cat, Dog, Pony) - Kann auch servieren
+* Toilettensklave / Toilettensklavin
 
 ## Discreet Euphorias
-
-<strong>Unsere Discreet Euphorias. Bitte beachtet welche Servicekraft-Art für die jeweilige Person überhaupt in Frage kommen.</strong>
 
 {{< notice "warning" >}}
 Bitte beachtet welche Servicekraft-Art für die jeweilige Person überhaupt in Frage kommen.
 {{< /notice >}}
 
-<strong>Name</strong>: Eve
-<strong>Alter</strong>: 51
-<strong>Servicekraft</strong> Arten: Zofe | Sklavin | Sub
-<strong>Besonderes</strong>:
+##### Eve
 
-<strong>Name</strong>: Mia
-<strong>Alter</strong>: 44
-<strong>Servicekraft</strong> Arten: Toilettensklavin | Sklavin | Sub | Pet
-<strong>Besonderes</strong>:
+Alter: 51
+Servicekraft Arten: Zofe | Sklavin | Sub
+Besonderes:
 
-<strong>Name</strong>: Alice
-<strong>Alter</strong>: 39
-<strong>Servicekraft</strong> Arten: Zofe, Switcher | Sklavin
-<strong>Besonderes</strong>: Eigentlich sehr demütig, kann aber auch dominant sein
+##### Mia
 
-<strong>Name</strong>: Susi
-<strong>Alter</strong>: 39
-<strong>Servicekraft</strong> Arten: Sklavin | Sub | Bottom
-<strong>Besonderes</strong>: sehr demütig
+* Alter: 44
+* Servicekraft Arten: Toilettensklavin | Sklavin | Sub | Pet
+* Besonderes:
 
-<strong>Name</strong>: Melanie
-<strong>Alter</strong>: 34
-<strong>Servicekraft</strong> Arten: Sub | Zofe | Pet
-<strong>Besonderes</strong>:
+##### Alice
 
-<strong>Name</strong>: Lisa
-<strong>Alter</strong>: 28
-<strong>Servicekraft</strong> Arten: Sub | Sklavin | Pet
-<strong>Besonderes</strong>: extrem süß
+* Alter: 39
+* Servicekraft Arten: Zofe, Switcher | Sklavin
+* Besonderes: Eigentlich sehr demütig, kann aber auch dominant sein
 
-<strong>Name</strong>: Jolyne
-<strong>Alter</strong>: 41
-<strong>Servicekraft</strong> Arten: Domina | Zofe | Switcher
-<strong>Besonderes</strong>: eigentlich dominant, kann aber auch mal switchen
+##### Susi
+
+* Alter: 39
+* Servicekraft Arten: Sklavin | Sub | Bottom
+* Besonderes</strong>: sehr demütig
+
+##### Melanie
+
+* Alter: 34
+* Servicekraft Arten: Sub | Zofe | Pet
+* Besonderes:
+
+##### Lisa
+
+* Alter: 28
+* Servicekraft Arten: Sub | Sklavin | Pet
+* Besonderes: extrem süß
+
+##### Jolyne
+
+* Alter: 41
+* Servicekraft Arten: Domina | Zofe | Switcher
+* Besonderes: eigentlich dominant, kann aber auch mal switchen
 
 ## Ringe und Schmuck (Erkennungszeichen)
 
-##### Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen Gästen mitteilt in welcher Konstellation man ist.
+Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen Gästen mitteilt in welcher Konstellation man ist.
 
-##### Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
+Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
 {{< accordion "Roter Rubin (Sub/Bottom mit Dom/Top)" >}}
 Finger weg ohne explizite Einladung!
