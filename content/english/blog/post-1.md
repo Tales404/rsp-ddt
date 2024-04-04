@@ -530,43 +530,43 @@ Bitte beachtet welche Servicekraft-Art für die jeweilige Person überhaupt in F
 
 ##### Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
-{{< accordion "<strong>Roter Rubin:</strong> Sub/Bottom mit Dom/Top -  Finger weg ohne explizite Einladung " >}}
+{{< accordion "Roter Rubin (Sub/Bottom mit Dom/Top)" >}}
 Finger weg ohne explizite Einladung!
 {{< /accordion >}}
 
-{{< accordion "Bernstein-Juwel: Sub/Bottom mit Dom/Top" >}}
+{{< accordion "Bernstein-Juwel (Sub/Bottom mit Dom/Top)" >}}
 Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
 {{< /accordion >}}
 
-{{< accordion "  <strong>Rosa Edelstein</strong>: Sub/Bottom als Single hier" >}}
+{{< accordion "Rosa Edelstein (Sub/Bottom als Single)" >}}
 
 
 Das gesamte Personal achtet auf unsere Single Subs. Sie genießen absoluten Schutz bei uns. Sowohl Frau als auch Mann.
 Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sein, dass sie nicht gefunden werden können bis sie selbst die erste Nachricht schreiben.
 {{< /accordion >}}
 
-{{< accordion "<strong>Grüner Smaragd</strong>: Sub/Bottom" >}}
+{{< accordion "Grüner Smaragd (Sub/Bottom mit Begleitung)" >}}
 **→ wenn an Leine:** Man darf sich vorsichtig annähern. Dann Blick-Kontakt zum DOM (oder vorübergehender Aufpasser (buchbar)) - beide erkennbar an schwarzem Edelstein - aufnehmen. Wenn kein Kopfschütteln kommt, darf gestreichelt und vorsichtig gegrabscht werden. Ohne eindringen!!! Weiteres nur durch explizite Erlaubnis. Es darf NICHT direkt danach gefragt werden! Nur via App darf weiteres gefragt werden!
 **→ wenn nicht an Leine:** Darf wirklich nur extrem vorsichtig gestreichelt und sehr leicht gegrabscht werden! Alle Mitarbeiter des Hotels haben dann ein Auge darauf!
 {{< /accordion >}}
 
-{{< accordion "<strong>Glas-Juwel</strong>: Cuckold" >}}
+{{< accordion "Glas-Juwel (Cuckold / Cuckqean)" >}}
 folgt :)
 {{< /accordion >}}
 
-{{< accordion "<strong>Aquamarin-Edelstein</strong>: Hotwife " >}}
+{{< accordion "Aquamarin-Edelstein (Hotwife / Hotman)" >}}
 folgt :)
 {{< /accordion >}}
 
-{{< accordion "<strong>Rauchquartz (Braun</strong>): Dom, Top, Herr, Herrin als Single im Hotel" >}}
+{{< accordion "Rauchquartz - Braun (Dom, Top, Herr, Herrin als Single im Hotel)" >}}
 Kann von Paaren direkt oder via App für verschiedenes angefragt werden. Subs können deren Profile in der App finden und haben dort verschiedene Möglichkeiten zur Kontaktanfrage (Genauso andersrum - siehe: Funktionen in der App im Profil)
 {{< /accordion >}}
 
-{{< accordion "<strong>Obsidian (Schwarz)</strong>: DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave" >}}
+{{< accordion "Obsidian - Schwarz (DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave)" >}}
 Eventuell kann man sein / ihr Profil in der App finden für Anfragen.
 {{< /accordion >}}
 
-{{< accordion "<strong>Fußfessel mit kleiner Kugel:</strong> Freiwild" >}}
+{{< accordion "Fußfessel mit kleiner Kugel (Freiwild)" >}}
 <strong>Fußfessel mit kleiner Kugel: Freiwild</strong> - kann auch nur temporär sein - dürfen nicht ohne Leine mit Dom oder Aufpasser unterwegs sein! -> Es darf sich langsam angenähert werden und Blickkontakt zu Dom gesucht werden. Wenn Blick Kontakt gefunden und keine Einwände kommen darf mit grabschen angefangen werden. Solange keine Einwände kommen darf theoretisch alles gemacht werden. Aber dem oder der Dom muss immer etwas Zeit gegeben werden Aktionen zu verbieten und abzublocken.
 {{< /accordion >}}
 
