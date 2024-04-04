@@ -585,14 +585,4 @@ Eventuell kann man sein / ihr Profil in der App finden für Anfragen.
 
 \------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
 
-## Funktionen in der App im Profil
 
-
-<strong>In der App gibt es auf einem Profil folgende Funktionen:</strong>
-
-<ul>
-<li><strong>Interesse bekunden (ähnlich wie Anstupsen):</strong> bedeutet du findest ihn/sie interessant. Empfänger kann darauf reagieren, muss aber nicht. Meistens wird nicht darauf reagiert. Kann aber auch genutzt werden, wenn man gerade Blickkontakt aufbauen will.</li>
-<li><strong>Date anfragen: </strong>Du fragst ein Date an. Optional kannst du bsp. ein Restaurant von uns mitschicken oder sonstige Vorschläge oder Text.</li>
-<li><strong>Nachricht schreiben:</strong> du kannst eine nette Nachricht schreiben. Nutze es als Kontaktanfrage oder Sonstiges</li>
-<li><strong>Brief schreiben: </strong>gerne kannst du selbst einen Brief schreiben oder von uns einen handschriftlich erstellen lassen. Empfänger erhält den Brief auf Wunsch zu einem Essen oder auch direkt aufs Zimmer.</li>
-</ul>
