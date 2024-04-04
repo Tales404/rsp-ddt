@@ -298,15 +298,21 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 {{< tabs >}}
 
 {{< tab "Bukkake" >}}
+
 ###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+
 {{< /tab >}}
 
 {{< tab "Gangbang" >}}
+
 ###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+
 {{< /tab >}}
 
 {{< tab "Vorführungen" >}}
+
 ###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -316,15 +322,21 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 {{< tabs >}}
 
 {{< tab "The best slut of the night" >}}
+
 ###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+
 {{< /tab >}}
 
 {{< tab "Auktion von Subs" >}}
+
 ###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+
 {{< /tab >}}
 
 {{< tab "BDSM Fashion Show" >}}
+
 ###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -360,23 +372,33 @@ Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pr
 {{< tabs >}}
 
 {{< tab "Shibari Kurs" >}}
+
 ###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+
 {{< /tab >}}
 
 {{< tab "Deepthroat Kurs" >}}
+
 ###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+
 {{< /tab >}}
 
 {{< tab "Fisting-/ Dehnung Kurs (Vaginal/Anal)" >}}
+
 ###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+
 {{< /tab >}}
 
 {{< tab "Laktation" >}}
+
 ###### hier zeigen wir euch…
+
 {{< /tab >}}
 
 {{< tab "Cuminflation" >}}
+
 ###### Cuminflation (Natürlich nicht mit echtem Sperma.... Wir haben aber ein ähnliches Sekret, das wir mit Hilfe von Einläufen einpumpen können. Dann wird gelernt, es möglichst lange in sich zu behalten... Man fühlt sich jedenfalls sehr gefüllt.
+
 {{< /tab >}}
 
 {{< tab "Cocktail und Cookingclass" >}}
@@ -440,7 +462,7 @@ Bei granularer Individualisierung vereinbaren sie bitte im Vorfeld ein Telefonat
 
 <hr>
 
-## Allgemeine Servicekräfte die auch explizit abgefragt werden können (Teilweise ist das dann jeweils Jemand von den "Discreet Euphorias" - aber nicht alle!)
+## Allgemeine Servicekräfte
 
 {{< notice "warning" >}}
 Teilweise sind unsere Servicekräfte auch Teil unserer "Discreet Euphorias". Allerding bei weitem nicht Alle! Bei bestimmten Wünschen müssen Sie sich im Vorfeld erkundigen!
@@ -504,32 +526,51 @@ Bitte beachtet welche Servicekraft-Art für die jeweilige Person überhaupt in F
 
 ## Ringe und Schmuck (Erkennungszeichen)
 
-<strong>Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen Gästen mitteilt in welcher Konstellation man ist.</strong>
+##### Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen Gästen mitteilt in welcher Konstellation man ist.
 
-<strong>Männer tragen Ringe</strong> und <strong>Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
+##### Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
-<strong>Roter Rubin</strong>: Sub/Bottom mit Dom/Top -  Finger weg ohne explizite Einladung 
+{{< accordion "<strong>Roter Rubin:</strong> Sub/Bottom mit Dom/Top -  Finger weg ohne explizite Einladung " >}}
+Finger weg ohne explizite Einladung!
+{{< /accordion >}}
 
-<strong>Bernstein-Juwel</strong>: Sub/Bottom mit Dom/Top - erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
+{{< accordion "Bernstein-Juwel: Sub/Bottom mit Dom/Top" >}}
+Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
+{{< /accordion >}}
 
-<strong>Rosa Edelstein</strong>: Sub/Bottom als Single hier: das gesamte Personal achtet auf unsere Single Subs. Sie genießen absoluten Schutz bei uns. Sowohl Frau als auch Mann.
+{{< accordion "  <strong>Rosa Edelstein</strong>: Sub/Bottom als Single hier" >}}
+
+
+Das gesamte Personal achtet auf unsere Single Subs. Sie genießen absoluten Schutz bei uns. Sowohl Frau als auch Mann.
 Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sein, dass sie nicht gefunden werden können bis sie selbst die erste Nachricht schreiben.
+{{< /accordion >}}
 
-<strong>Grüner Smaragd</strong>: Sub/Bottom
-→ wenn an Leine: man darf sich vorsichtig annähern. Dann Blick-Kontakt zum DOM (oder vorübergehender Aufpasser (buchbar)) - beide erkennbar an schwarzem Edelstein - aufnehmen. Wenn kein Kopfschütteln kommt, darf gestreichelt und vorsichtig gegrabscht werden. Ohne eindringen!!! Weiteres nur durch explizite Erlaubnis. Es darf NICHT direkt danach gefragt werden! Nur via App darf weiteres gefragt werden!
-→ wenn nicht an Leine: darf wirklich nur extrem vorsichtig gestreichelt und sehr leicht gegrabscht werden! Alle Mitarbeiter des Hotels haben dann ein Auge darauf!
+{{< accordion "<strong>Grüner Smaragd</strong>: Sub/Bottom" >}}
+**→ wenn an Leine:** Man darf sich vorsichtig annähern. Dann Blick-Kontakt zum DOM (oder vorübergehender Aufpasser (buchbar)) - beide erkennbar an schwarzem Edelstein - aufnehmen. Wenn kein Kopfschütteln kommt, darf gestreichelt und vorsichtig gegrabscht werden. Ohne eindringen!!! Weiteres nur durch explizite Erlaubnis. Es darf NICHT direkt danach gefragt werden! Nur via App darf weiteres gefragt werden!
+**→ wenn nicht an Leine:** Darf wirklich nur extrem vorsichtig gestreichelt und sehr leicht gegrabscht werden! Alle Mitarbeiter des Hotels haben dann ein Auge darauf!
+{{< /accordion >}}
 
-<strong>Glas-Juwel</strong>: Cuckold
+{{< accordion "<strong>Glas-Juwel</strong>: Cuckold" >}}
+folgt :)
+{{< /accordion >}}
 
-<strong>Aquamarin-Edelstein</strong>: Hotwife 
+{{< accordion "<strong>Aquamarin-Edelstein</strong>: Hotwife " >}}
+folgt :)
+{{< /accordion >}}
 
-<strong>Rauchquartz (Braun</strong>): Dom, Top, Herr, Herrin als Single im Hotel: kann von Paaren direkt oder via App für verschiedenes angefragt werden. Subs können deren Profile in der App finden und haben dort verschiedene Möglichkeiten zur Kontaktanfrage (Genauso andersrum - siehe: Funktionen in der App im Profil) 
+{{< accordion "<strong>Rauchquartz (Braun</strong>): Dom, Top, Herr, Herrin als Single im Hotel" >}}
+Kann von Paaren direkt oder via App für verschiedenes angefragt werden. Subs können deren Profile in der App finden und haben dort verschiedene Möglichkeiten zur Kontaktanfrage (Genauso andersrum - siehe: Funktionen in der App im Profil)
+{{< /accordion >}}
+
+{{< accordion "<strong>Obsidian (Schwarz)</strong>: DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave" >}}
+Eventuell kann man sein / ihr Profil in der App finden für Anfragen.
+{{< /accordion >}}
+
+{{< accordion "<strong>Fußfessel mit kleiner Kugel:</strong> Freiwild" >}}
+<strong>Fußfessel mit kleiner Kugel: Freiwild</strong> - kann auch nur temporär sein - dürfen nicht ohne Leine mit Dom oder Aufpasser unterwegs sein! -> Es darf sich langsam angenähert werden und Blickkontakt zu Dom gesucht werden. Wenn Blick Kontakt gefunden und keine Einwände kommen darf mit grabschen angefangen werden. Solange keine Einwände kommen darf theoretisch alles gemacht werden. Aber dem oder der Dom muss immer etwas Zeit gegeben werden Aktionen zu verbieten und abzublocken.
+{{< /accordion >}}
 
 \------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
-
-<strong>Obsidian (Schwarz)</strong>: DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave: eventuell kann man sein / ihr Profil in der App finden für Anfragen.
-
-<strong>Fußfessel mit kleiner Kugel: Freiwild</strong> - kann auch nur temporär sein - dürfen nicht ohne Leine mit Dom oder Aufpasser unterwegs sein! -> Es darf sich langsam angenähert werden und Blickkontakt zu Dom gesucht werden. Wenn Blick Kontakt gefunden und keine Einwände kommen darf mit grabschen angefangen werden. Solange keine Einwände kommen darf theoretisch alles gemacht werden. Aber dem oder der Dom muss immer etwas Zeit gegeben werden Aktionen zu verbieten und abzublocken.
 
 ## Funktionen in der App im Profil
 
