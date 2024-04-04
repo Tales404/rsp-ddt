@@ -12,20 +12,14 @@ tags:
 
 # Funktionen in der App
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Fuktionen in der Euphoria Retreat App"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Scanne einfach den QR-Code deiner Zimmerkarte und lade dir unsere App herunter! Sie ergänzen deinen Aufenthalt bei uns perfekt!"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      - "<strong>Interesse bekunden (ähnlich wie Anstupsen):</strong> bedeutet du findest ihn/sie interessant. Empfänger kann darauf reagieren, muss aber nicht. Meistens wird nicht darauf reagiert. Kann aber auch genutzt werden, wenn man gerade Blickkontakt aufbauen will."
+      - "Date anfragen: Du fragst ein Date an. Optional kannst du bsp. ein Restaurant von uns mitschicken oder sonstige Vorschläge oder Text."
+      - "Nachricht schreiben: du kannst eine nette Nachricht schreiben. Nutze es als Kontaktanfrage oder Sonstiges"
+      - "Brief schreiben: gerne kannst du selbst einen Brief schreiben oder von uns einen handschriftlich erstellen lassen. Empfänger erhält den Brief auf Wunsch zu einem Essen oder auch direkt aufs Zimmer."
 ---
 {{< toc >}}
 
