@@ -20,14 +20,13 @@
 
   <body>
     <div id="overlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background-color:rgba(0,0,0,0.75); z-index:1000;">
-      <div style="position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background-color:white; padding:20px; border-radius:5px; width:60%; max-width:600px;">
-          <img src="/images/18.png" alt="Bildbeschreibung" style="display:block; margin:auto; max-width:50%; height:auto;">
+      <div style="position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); background-color:white; padding:20px; border-radius:5px; width:60%; max-width:600px; display:flex; justify-content:space-between;">
+          <img src="/images/18.png" alt="Bildbeschreibung" style="display:block; max-width:50%; max-height:auto;">
           <p style="text-align:center;">Diese Webseite beinhaltet Content,der erst ab 18 Jahren ist. Bitte antworte, ob du bereits über 18 Jahre bist</p>
-          <button id="jaButton" style="display:inline-block; margin:10px; padding: 10px 20px">Ja</button>
-          <button id="noButton" style="display:inline-block; margin:10px; padding: 10px 20px">Nein</button>
+          <button id="yesButton" style="flex-grow:1; margin:5px;">Ja</button>
+          <button id="noButton" onclick="location.href='https://www.google.com';" style="flex-grow:1; margin:5px;">Nein</button>
       </div>
   </div>
-  
   </div>
   <script>
   document.addEventListener('DOMContentLoaded', (event) => {
