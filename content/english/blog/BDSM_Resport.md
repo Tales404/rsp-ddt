@@ -168,9 +168,7 @@ Nicht alle Bediensteten bei uns, die zb. Kurse oder regelmäßige Services im Zi
 
 ## Pakete für Paare
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Inhalt folgt noch.
 
 {{< /tab >}}
 
@@ -178,9 +176,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Pakete für sonstige Konstellationen
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+Inhalt folgt noch.
 
 {{< /tab >}}
 {{< /tabs >}}
@@ -219,7 +215,6 @@ Unsere "Spielzimmer" sind alle über unsere App buchbar
 
 * Mehrere verschiedene Spielzimmer mit Bdsm Möbel, Toys, Fickmaschine, etc.
 * Vorführungsräume mit Sitzplätzen und Vorhang
-* Gerne nehmen wir Vorführungen für die allgemeine Abendplanung auf bzw. Machen Werbung.
 * Water bdsm Raum - inkl. kleinem Pool etc.
 * 2 Kliniken mit Gyn-Stuhl und viel Ausrüstung
 
@@ -291,14 +286,24 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 
 <hr>
 
-### Spa/ Bodymods
+### Spa & Bodymods
 
+User Award-Winning "Euphoria Retreat Spa", heißt Sie jederzeit willkommen! Wir bieten ein sehr breites Spektrum an Service. Beginnend mit gewöhnlichen Spa-Pakete für Ihre Entspannung und Wohlbefinden (Massagen, Wraps, Dampfbäder, etc.) über diverse demrmatologische Behandlungen hin zu kleines Eingriffe.
+
+Unter anderem bieten wir:
+
+* Massagen
+  * Thai Massagen
+  * Enspannungsmassagen
+* Schwitzkuren
+* Enspannungs-Pakete (auch inkl. Aphrodisiaka)
 * Tattoos
 * Piercings
-* Kleinere OPs (Lippen, Brüste, Po, etc.)
+* Kleinere OPs (Lippen, Brüste, Po, Botox, etc.)
 * Brandings
 * Untersuchungen (Gyn)
-* Massagen aller Art
+* Dampfbäder / Sauna
+* Dermatologische Behandlungen
 
 <hr>
 
@@ -309,20 +314,33 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 {{< tabs >}}
 
 {{< tab "Bukkake" >}}
+##### Bukkake
+Sie würden gerne bei einem Bukkake teilnehmen? Würden Sie gerne gemeinsam mit anderen auf eine eizelne Person ejakulieren?
+Oder wäre sie gerne die Person, auf die ejakuliert wird? Oder aber sie Möchten, dass auf ihr Sub-Objekt ejakuliert wird?
+All das ist bei uns möglich!
 
-###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+In der App können sie entweder ein Bukkake-Event erstellen (das heißt sie sind / stellen die Person, auf die gemeinsam ejakuliert wird) oder auch bei einem bereits erstelltem Event anmelden. Gerne machen wir auch noch zusätzlich Werbung für ihr Event!
+Sie können ein Wunsch-Zimmer angeben, aber die Entscheidung des Zimmers wird letztlich von uns getroffen. Alternativ können sie auch ihre Suite nutzen!
 
 {{< /tab >}}
 
 {{< tab "Gangbang" >}}
+##### Gangbank & HÜ-Partys
+Sie würden gerne bei einem Gangbang teilnehmen? Auch hier die Frage: Wollen Sie einer von vielen sein, der das Objekt benutzen darf? Oder sind / stellen Sie das Objekt der Begierde für dieses Event?
 
-###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+
+In der App können sie entweder ein Gangban-Event erstellen oder auch bei einem bereits erstelltem Event anmelden. Gerne machen wir auch noch zusätzlich Werbung für ihr Event!
+
+Wenn Sie in der App ein Gangbang-Event erstellen müssen Sie im Erstellungsprozess noch einige Regeln aufstellen, die dann für die Teilnehmenden gelten. Unsere Servicekräfte werden dafür sorgen, dass diese Regeln auch stets eingehalten werden!
+Sie können ein Wunsch-Zimmer angeben, aber die Entscheidung des Zimmers wird letztlich von uns getroffen. Alternativ können sie auch ihre Suite nutzen!
 
 {{< /tab >}}
 
 {{< tab "Vorführungen" >}}
-
-###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+##### Vorführungen
+Auch bei Vorführungen könne sie teilnehmen oder ein solches Event erstellen!
+Auch hier müssen sie im Erstellungprozess verschiedene Regeln festlegen!
+Sie können ein Wunsch-Zimmer angeben, aber die Entscheidung des Zimmers wird letztlich von uns getroffen. Alternativ können sie auch ihre Suite nutzen!
 
 {{< /tab >}}
 
@@ -333,19 +351,19 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 {{< tabs >}}
 
 {{< tab "The best slut of the night" >}}
+##### "Best Slut of the night"
 
-###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
 
 {{< /tab >}}
 
 {{< tab "Auktion von Subs" >}}
-
+##### Sklaven-Auktion
 ###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
 
 {{< /tab >}}
 
 {{< tab "BDSM Fashion Show" >}}
-
+##### Fashion Show
 ###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
 
 {{< /tab >}}
@@ -479,6 +497,8 @@ Bei granularer Individualisierung vereinbaren sie bitte im Vorfeld ein Telefonat
 Teilweise sind unsere Servicekräfte auch Teil unserer "Discreet Euphorias". Allerding bei weitem nicht Alle! Bei bestimmten Wünschen müssen Sie sich im Vorfeld erkundigen!
 {{< /notice >}}
 
+\------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
+
 * DOM / Top / Herr / Lady / Mistress
 * Sklavin / Sklave / Sub / Bottom
 * Powerbottom
@@ -543,48 +563,47 @@ Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen G�
 
 Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
-{{< accordion "Roter Rubin (Sub/Bottom mit Dom/Top)" >}}
+{{< accordion "Roter Rubin | Sub/Bottom mit Dom/Top" >}}
 Finger weg ohne explizite Einladung!
 {{< /accordion >}}
 
-{{< accordion "Bernstein-Juwel (Sub/Bottom mit Dom/Top)" >}}
+{{< accordion "Bernstein-Juwel | Sub/Bottom mit Dom/Top" >}}
 Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
 {{< /accordion >}}
 
-{{< accordion "Rosa Edelstein (Sub/Bottom als Single)" >}}
+{{< accordion "Rosa Edelstein | Sub/Bottom als Single" >}}
 
 
 Das gesamte Personal achtet auf unsere Single Subs. Sie genießen absoluten Schutz bei uns. Sowohl Frau als auch Mann.
 Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sein, dass sie nicht gefunden werden können bis sie selbst die erste Nachricht schreiben.
 {{< /accordion >}}
 
-{{< accordion "Grüner Smaragd (Sub/Bottom mit Begleitung)" >}}
+{{< accordion "Grüner Smaragd | Sub/Bottom mit Begleitung" >}}
 **→ wenn an Leine:** Man darf sich vorsichtig annähern. Dann Blick-Kontakt zum DOM (oder vorübergehender Aufpasser (buchbar)) - beide erkennbar an schwarzem Edelstein - aufnehmen. Wenn kein Kopfschütteln kommt, darf gestreichelt und vorsichtig gegrabscht werden. Ohne eindringen!!! Weiteres nur durch explizite Erlaubnis. Es darf NICHT direkt danach gefragt werden! Nur via App darf weiteres gefragt werden!
 
 **→ wenn nicht an Leine:** Darf wirklich nur extrem vorsichtig gestreichelt und sehr leicht gegrabscht werden! Alle Mitarbeiter des Hotels haben dann ein Auge darauf!
 {{< /accordion >}}
 
-{{< accordion "Glas-Juwel (Cuckold / Cuckqean)" >}}
+{{< accordion "Glas-Juwel | Cuckold / Cuckqean" >}}
 folgt :)
 {{< /accordion >}}
 
-{{< accordion "Aquamarin-Edelstein (Hotwife / Hotman)" >}}
+{{< accordion "Aquamarin-Edelstein | Hotwife / Hotman" >}}
 folgt :)
 {{< /accordion >}}
 
-{{< accordion "Rauchquartz - Braun (Dom, Top, Herr, Herrin als Single im Hotel)" >}}
+{{< accordion "Rauchquartz - Braun | Dom, Top, Herr, Herrin als Single im Hotel" >}}
 Kann von Paaren direkt oder via App für verschiedenes angefragt werden. Subs können deren Profile in der App finden und haben dort verschiedene Möglichkeiten zur Kontaktanfrage (Genauso andersrum - siehe: Funktionen in der App im Profil)
 {{< /accordion >}}
 
-{{< accordion "Obsidian - Schwarz (DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave)" >}}
+{{< accordion "Obsidian - Schwarz | DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave" >}}
 Eventuell kann man sein / ihr Profil in der App finden für Anfragen.
 {{< /accordion >}}
 
-{{< accordion "Fußfessel mit kleiner Kugel (Freiwild)" >}}
+{{< accordion "Fußfessel mit kleiner Kugel | Freiwild" >}}
 <strong>Fußfessel mit kleiner Kugel: Freiwild</strong> - kann auch nur temporär sein - dürfen nicht ohne Leine mit Dom oder Aufpasser unterwegs sein! -> Es darf sich langsam angenähert werden und Blickkontakt zu Dom gesucht werden. Wenn Blick Kontakt gefunden und keine Einwände kommen darf mit grabschen angefangen werden. Solange keine Einwände kommen darf theoretisch alles gemacht werden. Aber dem oder der Dom muss immer etwas Zeit gegeben werden Aktionen zu verbieten und abzublocken.
 {{< /accordion >}}
 
-\------- Mich würde mal interessieren, wer das hier wirklich gelesen hat... Daher hier mal ein Code eingebaut... "my satisfaction must be hard" -> Nenne es, wenn du es hier gelesen hast! 
 
 
 ## Funktionen der Euphoria App
