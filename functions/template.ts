@@ -19,15 +19,16 @@ export function getTemplate({
       <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
       <style>
-        body > main {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          min-height: calc(100vh - 7rem);
-          padding: 1rem 0;
-          max-width: 600px;
-          align-items: center;
-        }
+      body > main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; /* Füge diese Zeile hinzu, um Inhalte horizontal zu zentrieren */
+        min-height: calc(100vh - 7rem);
+        padding: 1rem 0;
+        margin: 0 auto; /* Zentriert das <main>-Element selbst, falls es nicht die volle Breite einnimmt */
+        max-width: 600px; /* Diese Zeile begrenzt die Breite und arbeitet mit margin: 0 auto; zusammen, um zentrieren zu können */
+      }
 
         .error {
           background: white;
