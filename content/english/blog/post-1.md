@@ -187,6 +187,8 @@ Inhalt folgt noch.
 
 ### Lobby
 
+{{< image src="images/post-1_lobby.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
 <hr>
 
 ### Bar
