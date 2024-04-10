@@ -4,7 +4,7 @@ title: Mystic Euphoria Retreat & Spa
 meta_title: Mystic Euphoria Retreat & Spa
 description: Mystic Euphoria Retreat & Spa
 date: 2024-02-01T05:00:00.000Z
-image: /images/image-placeholder.png
+image: /images/post-1.webp
 categories:
   - BDSM
 tags:
