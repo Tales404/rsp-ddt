@@ -193,9 +193,13 @@ Inhalt folgt noch.
 
 ### Bar
 
+{{< image src="images/post-1_bar.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
 <hr>
 
 ### Restaurant
+
+{{< image src="images/post-1_restaurant.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
 
 <hr>
 
@@ -203,7 +207,11 @@ Inhalt folgt noch.
 
 #### Deluxe Schlafzimmer
 
+{{< image src="images/post-1_schlafzimmer.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
 #### Ankleidezimmer in der eigenen Suite
+
+{{< image src="images/post-1_ankleidezimmer.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
 
 #### Livingroom / Spielzimmer
 
