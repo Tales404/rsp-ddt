@@ -215,6 +215,13 @@ Inhalt folgt noch.
 
 #### Livingroom / Spielzimmer
 
+{{< image src="images/post-1_wohnzimmer.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
+#### Terasse
+
+{{< image src="images/post-1_terasse.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
+
 <hr>
 
 ## Besondere Zimmer
