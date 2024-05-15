@@ -592,6 +592,14 @@ Finger weg ohne explizite Einladung!
 Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
 {{< /accordion >}}
 
+{{< image src="images/bernstein_1.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/bernstein_2.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/bernstein_3.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/bernstein_4.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/bernstein_5.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/bernstein_6.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
+
 {{< accordion "Rosa Edelstein | Sub/Bottom als Single" >}}
 
 
