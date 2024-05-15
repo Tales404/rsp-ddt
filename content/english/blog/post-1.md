@@ -581,6 +581,9 @@ Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen G�
 Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
 {{< accordion "Roter Rubin | Sub/Bottom mit Dom/Top" >}}
+
+{{< image src="images/rot_1.webp" caption="" alt="alter-text" height="512px" width="896px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+
 Finger weg ohne explizite Einladung!
 {{< /accordion >}}
 
