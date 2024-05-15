@@ -580,12 +580,13 @@ Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen G�
 
 Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
-{{< image src="images/rot_1.webp" caption="" alt="alter-text" height="200px" width="200" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
 
 {{< accordion "Roter Rubin | Sub/Bottom mit Dom/Top" >}}
 
 Finger weg ohne explizite Einladung!
 {{< /accordion >}}
+{{< image src="images/rot_1.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< image src="images/rot_2.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
 
 {{< accordion "Bernstein-Juwel | Sub/Bottom mit Dom/Top" >}}
 Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
