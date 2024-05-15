@@ -585,15 +585,12 @@ Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere
 
 Finger weg ohne explizite Einladung!
 {{< /accordion >}}
-{{< image src="images/rot_1.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
-{{< image src="images/rot_2.webp" caption="" alt="alter-text" height="110px" width="110" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="true" >}}
+{{< slider dir="images/rot" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Bernstein-Juwel | Sub/Bottom mit Dom/Top" >}}
 Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
-{{< slider dir="images/bernstein" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< /accordion >}}
-
 {{< slider dir="images/bernstein" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
@@ -604,32 +601,39 @@ Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt
 Das gesamte Personal achtet auf unsere Single Subs. Sie genießen absoluten Schutz bei uns. Sowohl Frau als auch Mann.
 Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sein, dass sie nicht gefunden werden können bis sie selbst die erste Nachricht schreiben.
 {{< /accordion >}}
+{{< slider dir="images/rosa" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Grüner Smaragd | Sub/Bottom mit Begleitung" >}}
 **→ wenn an Leine:** Man darf sich vorsichtig annähern. Dann Blick-Kontakt zum DOM (oder vorübergehender Aufpasser (buchbar)) - beide erkennbar an schwarzem Edelstein - aufnehmen. Wenn kein Kopfschütteln kommt, darf gestreichelt und vorsichtig gegrabscht werden. Ohne eindringen!!! Weiteres nur durch explizite Erlaubnis. Es darf NICHT direkt danach gefragt werden! Nur via App darf weiteres gefragt werden!
 
 **→ wenn nicht an Leine:** Darf wirklich nur extrem vorsichtig gestreichelt und sehr leicht gegrabscht werden! Alle Mitarbeiter des Hotels haben dann ein Auge darauf!
 {{< /accordion >}}
+{{< slider dir="images/green" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Glas-Juwel | Cuckold / Cuckqean" >}}
 folgt :)
 {{< /accordion >}}
+{{< slider dir="images/glas" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Aquamarin-Edelstein | Hotwife / Hotman" >}}
 folgt :)
 {{< /accordion >}}
+{{< slider dir="images/aquamarin" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Rauchquartz - Braun | Dom, Top, Herr, Herrin als Single im Hotel" >}}
 Kann von Paaren direkt oder via App für verschiedenes angefragt werden. Subs können deren Profile in der App finden und haben dort verschiedene Möglichkeiten zur Kontaktanfrage (Genauso andersrum - siehe: Funktionen in der App im Profil)
 {{< /accordion >}}
+{{< slider dir="images/rauch" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Obsidian - Schwarz | DOM, Top, Herr, Herrin mit einem Sub/Bottom/slave" >}}
 Eventuell kann man sein / ihr Profil in der App finden für Anfragen.
 {{< /accordion >}}
+{{< slider dir="images/obs" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< accordion "Fußfessel mit kleiner Kugel | Freiwild" >}}
 <strong>Fußfessel mit kleiner Kugel: Freiwild</strong> - kann auch nur temporär sein - dürfen nicht ohne Leine mit Dom oder Aufpasser unterwegs sein! -> Es darf sich langsam angenähert werden und Blickkontakt zu Dom gesucht werden. Wenn Blick Kontakt gefunden und keine Einwände kommen darf mit grabschen angefangen werden. Solange keine Einwände kommen darf theoretisch alles gemacht werden. Aber dem oder der Dom muss immer etwas Zeit gegeben werden Aktionen zu verbieten und abzublocken.
 {{< /accordion >}}
+{{< slider dir="images/kugel" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 
