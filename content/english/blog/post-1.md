@@ -455,7 +455,14 @@ Melde dich noch heute für unseren Deepthroat Kurs an und erlebe eine neue Dimen
 
 {{< tab "Fisting-/ Dehnung Kurs (Vaginal/Anal)" >}}
 
-###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+###### Der Kurs für alle, Sizequeens lieben!
+
+Du möchtest dich mehr mit dem Thema Dehnung und Fisting auseinandersetzen und viel darüber lernen? Oder du möchtest einfach, dass deine Sklavin / Sub dehnbarer ist?
+
+In beiden Fällen, ist das der richtige Kurs für dich!
+Du wirst einerseits verschiedene Techniken lernen, wie man Jemanden am besten und einfachsten weitet aber andererseits zeigen wir dir auch, wie du dein/e Sub trainieren kannst, sodass du kontinuierlich noch weiter dehnen kannst. Du musst dich mit der aktuellen Dehbarkeit deiner Sub nicht zufrieden geben... Es geht immer mehr!
+
+Du kannst dabei sein oder deine Sub auch jeden TAg für 1-2 Stunden abgeben und nur die Resultate genießen! Keine Sorge, du bekommst sie immer heil zurück!
 
 {{< /tab >}}
 
