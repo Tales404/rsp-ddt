@@ -424,7 +424,7 @@ Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pr
 
 {{< tab "Shibari Kurs" >}}
 
-###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+###### Der sinnlichste Shibari Kurs der Welt!
 
 Du möchtest die Kunst der japanischen Bondage erlernen und deinen Partner auf eine neue und aufregende Weise fesseln und kontrollieren? Oder möchtest du, dass dein devoter Partner lernt, wie er sich selbst fesseln und dir zur Verfügung stellen kann? Dann ist unser Shibari Kurs genau das Richtige für dich!
 
@@ -440,7 +440,7 @@ Melde dich noch heute für unseren Shibari Kurs an und erlebe die Kunst der japa
 
 {{< tab "Deepthroat Kurs" >}}
 
-###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+###### Keiner mag blojobs! Die Kehle ist viel geiler!
 
 Du liebst es, wenn dein devoter Partner dich tief und intensiv befriedigt und dabei würgt und kotzt? Du möchtest, dass er diese Fähigkeiten verbessert und noch extremer wird? Dann ist unser Deepthroat Kurs genau das Richtige für dich!
 
@@ -455,7 +455,7 @@ Melde dich noch heute für unseren Deepthroat Kurs an und erlebe eine neue Dimen
 
 {{< tab "Fisting-/ Dehnung Kurs (Vaginal/Anal)" >}}
 
-###### Der Kurs für alle, Sizequeens lieben!
+###### Der Kurs für alle, die Sizequeens lieben!
 
 Du möchtest dich mehr mit dem Thema Dehnung und Fisting auseinandersetzen und viel darüber lernen? Oder du möchtest einfach, dass deine Sklavin / Sub dehnbarer ist?
 
@@ -468,6 +468,7 @@ Du kannst dabei sein oder deine Sub auch jeden TAg für 1-2 Stunden abgeben und 
 
 {{< tab "Laktation" >}}
 
+###### Dich macht Laktation geil? Dann bist du hier richtig!
 Du möchtest, dass deine devote Partnerin Milch gibt und dich auf eine neue und aufregende Weise befriedigen kann? Oder möchtest du als devote Frau lernen, wie du Milch geben und deinen Herrn auf eine besondere Weise verwöhnen kannst? In unserem Laktation Kurs zeigen dir erfahrene BDSM-Trainer, wie du die Milchproduktion deiner devoten Partnerin oder deiner eigenen Brüste anregen und steigern kannst.
 
 Der Kurs ist für Anfänger und Fortgeschrittene geeignet und wird in einer sicheren und respektvollen Umgebung durchgeführt. Du kannst den Kurs alleine oder zusammen mit deiner devoten Partnerin besuchen. Bitte beachte, dass der Kurs nur Sinn macht, wenn du täglich teilnimmst und mindestens 10 Tage bei uns im Hotel verbringst. Die Milchproduktion benötigt Zeit und regelmäßige Stimulation, um erfolgreich zu sein.
@@ -483,7 +484,7 @@ Melde dich noch heute für unseren Laktation Kurs an und erlebe eine neue und au
 
 {{< tab "Cuminflation" >}}
 
-###### Cuminflation (Natürlich nicht mit echtem Sperma.... Wir haben aber ein ähnliches Sekret, das wir mit Hilfe von Einläufen einpumpen können. Dann wird gelernt, es möglichst lange in sich zu behalten... Man fühlt sich jedenfalls sehr gefüllt.
+###### Mit unserem Fake-Sperma kommst du einer Cuminflation so nah wie möglich!
 
 Du möchtest deine devote Partnerin auf eine neue und aufregende Weise befriedigen, indem du sie extrem ausfüllst und das Gefühl erzeugst, als ob du unendlich viel Sperma in sie spritzt? In unserem Cuminflation Kurs zeigen dir erfahrene BDSM-Trainer, wie du dieses Gefühl durch die Verwendung von Fake-Sperma und verschiedenen Techniken erzeugen kannst.
 
