@@ -277,6 +277,8 @@ Alle unsere Angebotene Aktivitäten, Kurse, Custom-Packages und Events können �
 {{< tab "Bodypaiting" >}}
 
 * Ihr malt euch gegenseitig an. Wir können gerne einen Fotografen stellen.
+
+{{< slider dir="images/Tasting" class="max-w-[400px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
   {{< /tab >}}
 
 {{< tab "Escape-Room" >}}
