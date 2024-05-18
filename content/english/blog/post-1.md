@@ -426,12 +426,31 @@ Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pr
 
 ###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
 
+Du möchtest die Kunst der japanischen Bondage erlernen und deinen Partner auf eine neue und aufregende Weise fesseln und kontrollieren? Oder möchtest du, dass dein devoter Partner lernt, wie er sich selbst fesseln und dir zur Verfügung stellen kann? Dann ist unser Shibari Kurs genau das Richtige für dich!
+
+In diesem Kurs wirst du von erfahrenen BDSM-Trainern lernen, wie du Seile und Knoten einsetzen kannst, um deinen Partner auf sichere und ästhetische Weise zu fesseln. Du wirst auch lernen, wie du die Fesselung mit anderen BDSM-Praktiken wie Schmerz, Demütigung oder Dominanz kombinieren kannst.
+
+Der Kurs ist für Anfänger und Fortgeschrittene geeignet und wird in einer sicheren und respektvollen Umgebung durchgeführt. Du kannst den Kurs alleine oder zusammen mit deinem Partner besuchen.
+
+Auch wenn du die ästhetische Seite von Shibari liebst, bist du in diesem Kurs genau richtig. Unsere Trainer werden dir zeigen, wie du die Seile und Knoten einsetzen kannst, um deinen Partner in aufregenden und ungewöhnlichen Positionen zu fesseln und ihn zur Schau zu stellen.
+
+Melde dich noch heute für unseren Shibari Kurs an und erlebe die Kunst der japanischen Bondage auf eine neue und aufregende Weise!
+
 {{< /tab >}}
 
 {{< tab "Deepthroat Kurs" >}}
 
 ###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
 
+Du liebst es, wenn dein devoter Partner dich tief und intensiv befriedigt und dabei würgt und kotzt? Du möchtest, dass er diese Fähigkeiten verbessert und noch extremer wird? Dann ist unser Deepthroat Kurs genau das Richtige für dich!
+
+In diesem Kurs wird dein devoter Partner von erfahrenen BDSM-Trainern lernen, wie er seinen Mund und seine Kehle entspannen und kontrollieren kann, um dich noch tiefer und intensiver zu befriedigen. Er wird auch lernen, wie er seine Zunge und seine Lippen einsetzen kann, um zusätzliche Stimulation zu bieten.
+
+Der Kurs ist für Anfänger und Fortgeschrittene geeignet und wird in einer sicheren und respektvollen Umgebung durchgeführt. Du kannst deinen devoten Partner alleine zum Kurs schicken oder ihn zusammen mit dir besuchen.
+
+Auch für Liebhaber des extremeren Deepthroat bieten wir Kurse. Bucht gerne auch im Paar! Denn auch Liebhaber von Milch können hierbei auf ihre Kosten kommen... Gemeinsam können wir deinen devoten Partner all das beibringen!
+
+Melde dich noch heute für unseren Deepthroat Kurs an und erlebe eine neue Dimension der oralen Befriedigung mit deinem devoten Partner!
 {{< /tab >}}
 
 {{< tab "Fisting-/ Dehnung Kurs (Vaginal/Anal)" >}}
@@ -442,7 +461,16 @@ Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pr
 
 {{< tab "Laktation" >}}
 
-###### hier zeigen wir euch…
+Du möchtest, dass deine devote Partnerin Milch gibt und dich auf eine neue und aufregende Weise befriedigen kann? Oder möchtest du als devote Frau lernen, wie du Milch geben und deinen Herrn auf eine besondere Weise verwöhnen kannst? In unserem Laktation Kurs zeigen dir erfahrene BDSM-Trainer, wie du die Milchproduktion deiner devoten Partnerin oder deiner eigenen Brüste anregen und steigern kannst.
+
+Der Kurs ist für Anfänger und Fortgeschrittene geeignet und wird in einer sicheren und respektvollen Umgebung durchgeführt. Du kannst den Kurs alleine oder zusammen mit deiner devoten Partnerin besuchen. Bitte beachte, dass der Kurs nur Sinn macht, wenn du täglich teilnimmst und mindestens 10 Tage bei uns im Hotel verbringst. Die Milchproduktion benötigt Zeit und regelmäßige Stimulation, um erfolgreich zu sein.
+
+In diesem Kurs wirst du lernen, wie du die Milchproduktion durch verschiedene Methoden anregen kannst. Dazu gehören zum Beispiel:
+
+Regelmäßiges Saugen an den Brustwarzen: Dies ist die natürlichste und effektivste Methode, um die Milchproduktion zu steigern. Unsere Trainer werden dir zeigen, wie du deine devote Partnerin oder dich selbst richtig anlegen und saugen kannst, um die Milchproduktion zu maximieren.
+Einnahme von bestimmten Kräutern oder Medikamenten: Einige Kräuter und Medikamente können die Milchproduktion anregen. Unsere Trainer werden dir zeigen, welche Kräuter und Medikamente sicher und effektiv sind und wie du sie einnehmen kannst.
+Verwendung von Milchpumpen: Milchpumpen können die Milchproduktion anregen, indem sie die Brüste regelmäßig stimulieren. Unsere Trainer werden dir zeigen, wie du eine Milchpumpe richtig verwendest und wie du die Milch auf sichere und hygienische Weise gewinnen und aufbewahren kannst.
+Melde dich noch heute für unseren Laktation Kurs an und erlebe eine neue und aufregende Art der Befriedigung!
 
 {{< /tab >}}
 
@@ -450,13 +478,23 @@ Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pr
 
 ###### Cuminflation (Natürlich nicht mit echtem Sperma.... Wir haben aber ein ähnliches Sekret, das wir mit Hilfe von Einläufen einpumpen können. Dann wird gelernt, es möglichst lange in sich zu behalten... Man fühlt sich jedenfalls sehr gefüllt.
 
+Du möchtest deine devote Partnerin auf eine neue und aufregende Weise befriedigen, indem du sie extrem ausfüllst und das Gefühl erzeugst, als ob du unendlich viel Sperma in sie spritzt? In unserem Cuminflation Kurs zeigen dir erfahrene BDSM-Trainer, wie du dieses Gefühl durch die Verwendung von Fake-Sperma und verschiedenen Techniken erzeugen kannst.
+
+Der Kurs ist für Anfänger und Fortgeschrittene geeignet und wird in einer sicheren und respektvollen Umgebung durchgeführt. Du kannst den Kurs alleine oder zusammen mit deiner devoten Partnerin besuchen.
+
+In diesem Kurs wirst du lernen, wie du Fake-Sperma vaginal, anal oder oral spritzen kannst, um das Gefühl zu erzeugen, dass deine devote Partnerin extrem ausgefüllt ist. Unsere Trainer werden dir verschiedene Techniken und Hilfsmittel zeigen, wie zum Beispiel Fake-Penisse, um das Gefühl noch intensiver zu machen.
+
+Kombiniere es mit einem Foto-Shooting! Damit stellt ihr quasi ein "real Cuminlation" nach!
+
+Melde dich noch heute für unseren Cuminflation Kurs an und erlebe eine neue und aufregende Art der Befriedigung mit deiner devoten Partnerin!
+
 {{< /tab >}}
 
-{{< tab "Cocktail und Cookingclass" >}}
+{{< tab "Cocktailclass" >}}
 
-##### Kurzbeschreibung
+##### Cocktails der besonderen Verführung
+Hier kannst du / Ihr lernen wie man Cocktails zubereitet, die eine beondere Wirkung haben! Wir haben viele Zutaten, die eine Bar normalerweise nicht hat! Vermutlich könnte man es eher mit Zaubertränken vergleichen... Aber eins ist sicher, wir haben Cocktails für jede Wirkung und wir garantieren euch.... diese wirken!
 
-Text
 {{< /tab >}}
 
 {{< /tabs >}}
