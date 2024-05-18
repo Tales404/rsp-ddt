@@ -580,24 +580,21 @@ Alle Gäste bei uns müssen ein Erkennungsmerkmal tragen, welches den anderen G�
 
 Männer tragen Ringe und Frauen Schmuck ihrer Wahl</strong> (du bekommst mehrere vom Hotel gestellt. Auswahl aus: Fußkette/band, Halsband, Armband, analplug, Halskette, Ohrringe. An ihnen ist jeweils ein Stein dessen Farbe dann eben die Konstellation verrät.
 
-{{< slider dir="images/rot" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
-{{< accordion "Roter Rubin | Sub/Bottom mit Dom/Top" >}}
 
+{{< accordion "Roter Rubin | Sub/Bottom mit Dom/Top" >}}
 Finger weg ohne explizite Einladung!
 {{< /accordion >}}
+{{< slider dir="images/rot" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
-{{< slider dir="images/bernstein" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
+
 {{< accordion "Bernstein-Juwel | Sub/Bottom mit Dom/Top" >}}
 Erstmal Finger weg! Dom, Top, Herr kann höflichst und diskret via App angefragt werden (Vorschläge mitschicken)
-
 {{< /accordion >}}
-
+{{< slider dir="images/bernstein" class="max-w-[200px] ml-0" height="200" width="200" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 
 {{< accordion "Rosa Edelstein | Sub/Bottom als Single" >}}
-
-
 Das gesamte Personal achtet auf unsere Single Subs. Sie genießen absoluten Schutz bei uns. Sowohl Frau als auch Mann.
 Wenn sie möchten kann man ihre Profile in der App finden. Es kann aber auch sein, dass sie nicht gefunden werden können bis sie selbst die erste Nachricht schreiben.
 {{< /accordion >}}
