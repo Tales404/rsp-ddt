@@ -375,18 +375,22 @@ Sie können ein Wunsch-Zimmer angeben, aber die Entscheidung des Zimmers wird le
 {{< tab "The best slut of the night" >}}
 ##### "Best Slut of the night"
 
+Hier wird die "Slut of the Night" gekürt... Das ganze findet in unserer Bar auf der Bühne statt... Es ist ein Wettbewerb unter Subs, wer die "beste" Slut ist.
 
 {{< /tab >}}
 
 {{< tab "Auktion von Subs" >}}
 ##### Sklaven-Auktion
-###### Gerne können Subs(männlich und weiblich) für Gangbangs angemeldet werden. Wir organisieren gerne den Rest.
+
+Spielgeld / 
+Herren versteigern ihre Sub
+Solo Männer können Leistungen "kaufen"
 
 {{< /tab >}}
 
 {{< tab "BDSM Fashion Show" >}}
 ##### Fashion Show
-###### Können angemeldet werden. Gerne auch mal zu einem Themenabend direkt zum Dinner.
+Die neusten Kollektionen von BDSM-Designern
 
 {{< /tab >}}
 
@@ -398,13 +402,13 @@ Sie können ein Wunsch-Zimmer angeben, aber die Entscheidung des Zimmers wird le
 
 {{< tab "speed-Dating Abend (klassisch)" >}}
 
-###### Gerne können Subs(männlich und weiblich) für Bukkake angemeldet werden. Wir organisieren gerne den Rest.
+###### Unser klassisches Speed Dating
 
 {{< /tab >}}
 
 {{< tab "Speed-Dating Abend - new" >}}
 
-##### Beschreibung
+##### Speed-Dating der besonderen Art (hier kommt jeder auf seine Kosten!)
 
 Ihr werdet von uns für ein Date gematched, für das alles organisiert wird - Pro tag könnt ihr das einmal machen)
 
