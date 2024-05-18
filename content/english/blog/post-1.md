@@ -13,7 +13,7 @@ tags:
 # Funktionen in der App
 features:
   - title: ""
-    image: "/images/service-1.png"
+    image: "/images/app.webp"
     content: "Scanne einfach den QR-Code deiner Zimmerkarte und lade dir unsere App herunter! Sie ergänzen deinen Aufenthalt bei uns perfekt!"
     bulletpoints:
       - "<strong>Interesse bekunden (ähnlich wie Anstupsen):</strong> bedeutet du findest ihn/sie interessant. Empfänger kann darauf reagieren, muss aber nicht. Meistens wird nicht darauf reagiert. Kann aber auch genutzt werden, wenn man gerade Blickkontakt aufbauen will."
