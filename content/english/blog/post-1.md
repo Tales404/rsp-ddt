@@ -306,7 +306,7 @@ Es werden generelle Fragen, persönliche Fragen und andere Aufgaben gestellt. Ta
 
 ##### Bilder Champagne Tasting
 
-{{< slider dir="images/tasting" class="max-w-[300px] ml-0" height="300" width="100" webp="false" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/tasting" class="max-w-[300px] ml-0" height="1536" width="864" webp="false" command="Fit" option="" zoomable="true" >}}
 
 ### Spa & Bodymods
 
