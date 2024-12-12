@@ -28,7 +28,7 @@ Mir gehts aber um das gemeinsame Ausleben seiner Versautheit und Perversion … 
 
 
 
-{{< accordion "Was macht für dich ein "wirklich gutes Rollenspiel" aus?" >}}
+{{< accordion "Was macht für dich ein 'wirklich gutes Rollenspiel' aus?" >}}
 
 Wie ja gerade gesagt, geht es für mich bei Rollenspielen vor Allem um das gemeinsame Ausleben seiner Versautheit und Perversion.
 Und das heißt für mich beispielsweise, man muss in ein Rollenspiel wirklich gemeinsam eintauchen können. Es muss sehr detailreich sein, nicht vorhersehbar(Beide müssen interaktiv spielen und aktiv auf die Geschichte einwirken), beide müssen viel Arbeit reinstecken und vor Allem müssen Beide  bereit sein sich wirklich hinzugeben und sich zu öffnen… sich fragen wo die eigenen Grenzen liegen und anzusteuern. Bereit sein, seine volle Perversion, Versautheit und Fantasie reinzustecken. Und das geht eben nur mit einer gewissen Ausührlichkeit!
