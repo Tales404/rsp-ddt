@@ -4,7 +4,7 @@ title: Daniel (X-2) vom Planeten Coloniam Expansum
 meta_title: Daniel (X-2) vom Planeten Coloniam Expansum
 description: Daniel (X-2) vom Planeten Coloniam Expansum
 date: 2025-024-10T05:00:00.000Z
-image: /images/post-1.webp
+image: /images/post-2.webp
 categories:
   - BDSM
   - Scifi
